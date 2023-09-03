@@ -1,0 +1,8 @@
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\bin\Debug\ExamenPractico1.exe.config
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\bin\Debug\ExamenPractico1.exe
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\bin\Debug\ExamenPractico1.pdb
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\obj\Debug\ExamenPractico1.csproj.AssemblyReference.cache
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\obj\Debug\ExamenPractico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\obj\Debug\ExamenPractico1.csproj.CoreCompileInputs.cache
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\obj\Debug\ExamenPractico1.exe
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\ExamenPractico1\obj\Debug\ExamenPractico1.pdb
